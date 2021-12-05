@@ -14,7 +14,7 @@ padding-left: 2rem;
     max-width: 30rem;
 margin: auto;
 }
-.hr{
+hr{
     margin: 2rem 0rem;
 }
 
@@ -33,4 +33,12 @@ padding: 0.5rem 1rem;
     border: 1px solid var(--primary-color);
     border-radius: 0.5rem;
     
+}
+.wobullet{
+list-style: none;
+}
+
+.inline-item{
+    display: inline;
+    padding: 0rem 0.5rem;
 }
