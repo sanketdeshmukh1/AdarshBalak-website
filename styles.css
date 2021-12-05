@@ -3,3 +3,11 @@
 body{
     font-family: 'Baloo Bhaijaan 2', cursive;
 }
+
+.container{
+padding-left: 2rem;
+}
+.fluid{
+    max-width: 30rem;
+margin: auto;
+}
