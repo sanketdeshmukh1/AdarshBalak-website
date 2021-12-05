@@ -42,3 +42,28 @@ list-style: none;
     display: inline;
     padding: 0rem 0.5rem;
 }
+
+.navigation-container{
+    background-color: var(--primary-color);
+    border-radius: 1rem;
+    color: white;
+}
+
+.brand{
+    padding: 0.5rem ;
+    font-weight: bold;
+    font-size: 1rem;
+}
+.navlink{
+    color: white;
+}
+.inline-item .link{
+    padding: 1.5rem;
+    font-size: 1rem;
+}
+.navlist{
+    text-align: right;
+}
+.active{
+font-weight: bold;
+}
