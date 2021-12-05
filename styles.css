@@ -67,3 +67,17 @@ list-style: none;
 .active{
 font-weight: bold;
 }
+.header{
+    padding: 1rem;
+}
+
+.headerimg{
+max-width: 25rem;
+margin: auto;
+display: block;
+}
+.heading{
+    color: var(--primary-color);
+font-size: 3rem;
+text-align: center;
+}
