@@ -45,14 +45,17 @@ list-style: none;
 
 .navigation-container{
     background-color: var(--primary-color);
-    border-radius: 1rem;
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
     color: white;
+    
 }
 
 .brand{
     padding: 0.5rem ;
     font-weight: bold;
-    font-size: 1rem;
+    font-size: 2rem;
+    text-align: center;
 }
 .navlink{
     color: white;
