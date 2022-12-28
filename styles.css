@@ -21,17 +21,21 @@ hr{
 .link{
 text-decoration: none;
 padding: 0.5rem 1rem;
+
 }
 
 .link-primary{
     background-color: var(--primary-color);
     border-radius: 0.5rem;
     color: white;
+display: block;
+text-align: center;
 }
 .link-secondary{
     color:var(--primary-color);
     border: 1px solid var(--primary-color);
     border-radius: 0.5rem;
+    
     
 }
 .wobullet{
@@ -123,4 +127,17 @@ max-width: 600px;
     height: 6rem;
     width: 6rem;
 visibility: hidden;
+}
+
+.skill{
+    margin-bottom  : 1rem;
+    font-weight: 400;
+display: flex;
+align-items: center;
+}
+
+.imgsk{
+    padding: 1rem;
+    height: 3rem;
+    width: 3rem;  
 }
